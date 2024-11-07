@@ -1,0 +1,3 @@
+This is a sample text file.\n
+This is EECS 3216.\n
+We are doing the first lab.\EOF
